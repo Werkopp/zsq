@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://i.ibb.co/rFct6QX/LOGO.png">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9k5nA28eleY2F_FP4ZbMd0YHjY-cNM5wzOduWy7N5GuRBHRkpLlLg4E8&s=10">
 </p>
 
 # :computer: Main window
